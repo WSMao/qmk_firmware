@@ -1,3 +1,6 @@
+# Playboy Keyboard
+Playboy Keyboard is based on [qmk](https://github.com/qmk/qmk_firmware) Keyboard Firmware.
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
